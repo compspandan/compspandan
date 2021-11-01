@@ -26,9 +26,9 @@ Making this world a slightly better place to live in 🙂
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ## Softwares
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
@@ -39,4 +39,8 @@ Making this world a slightly better place to live in 🙂
 
 ## GitHub Stats
 
-![Compspandan's GitHub stats](https://github-readme-stats.vercel.app/api?username=compspandan&count_private=true&show_icons=true&theme=dark)
+![Compspandan's GitHub stats](https://github-readme-stats.vercel.app/api?username=compspandan&count_private=true&show_icons=true&theme=tokyonight)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=compspandan&theme=tokyonight)
+
+<img src="https://activity-graph.herokuapp.com/graph?username=compspandan&theme=rogue"/>
