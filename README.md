@@ -3,7 +3,7 @@
 # <img style="border-radius: 10px;" src="https://tenor.com/view/rafs84-rafsdesign-hello-hi-hola-gif-22144862.gif" width="100px">
 
 ## About Me
-I am a Tech enthusiast interested in building cool projects to solve real world problems.
+I am a Tech enthusiast interested in building cool projects to solve real world problems. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 
 Making this world a slightly better place to live in 🙂
 
@@ -17,7 +17,7 @@ Making this world a slightly better place to live in 🙂
 ![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 
-## Frameworks & Tools
+## 🔧 Frameworks & Tools
 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
