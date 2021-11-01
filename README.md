@@ -17,7 +17,7 @@ Making this world a slightly better place to live in 🙂
 ![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 
-## 🔧 Frameworks & Tools
+## Frameworks & Tools
 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
@@ -37,7 +37,6 @@ Making this world a slightly better place to live in 🙂
 ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white)
 ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)
 
-## &#x1f4c8; GitHub Stats
+## GitHub Stats
 
-[![Compspandan's GitHub stats](https://github-readme-stats.vercel.app/api?username=compspandan&count_private=true&show_icons=true&theme=dark)
-)](https://github.com/anuraghazra/github-readme-stats)
+![Compspandan's GitHub stats](https://github-readme-stats.vercel.app/api?username=compspandan&count_private=true&show_icons=true&theme=dark)
